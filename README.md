@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SushantSubedii
+- 👋 Hi, I’m @SushantSubedi
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
